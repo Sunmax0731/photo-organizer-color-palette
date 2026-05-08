@@ -1,0 +1,14 @@
+{
+  "product": "photo-organizer-color-palette",
+  "title": "写真整理・色パレット抽出",
+  "domain": "AndroidApp",
+  "ideaNo": 9,
+  "platformType": "android-emulator",
+  "expectedPublicTarget": "Google Play",
+  "browser": null,
+  "android": {
+    "packageName": "com.sunmax0731.photoorganizercolorpalette",
+    "evidence": "dist/android-emulator-result.json"
+  },
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
